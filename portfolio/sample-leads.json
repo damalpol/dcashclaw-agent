@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-16T12:00:00Z",
+    "icp": {
+      "industry": "SaaS",
+      "company_size": "10-50 employees",
+      "geography": "United States",
+      "job_titles": ["CEO", "CTO", "Head of Marketing"],
+      "pain_points": "Scaling customer acquisition, reducing CAC"
+    },
+    "total_leads": 25,
+    "avg_score": 7.4,
+    "score_distribution": {
+      "hot": 10,
+      "warm": 12,
+      "cool": 3
+    }
+  },
+  "leads": [
+    {
+      "company": "TechFlow Solutions",
+      "website": "https://techflowsolutions.com",
+      "industry": "SaaS",
+      "size": "25-50",
+      "location": "Austin, TX",
+      "contact": {
+        "name": "Sarah Chen",
+        "title": "CEO",
+        "email": "s.chen@techflowsolutions.com",
+        "phone": "+1-512-555-0142",
+        "linkedin": "https://linkedin.com/in/sarahchen-techflow"
+      },
+      "signals": {
+        "recently_funded": true,
+        "hiring": true,
+        "tech_stack_match": true,
+        "content_engagement": true
+      },
+      "score": 9,
+      "notes": "Series A funded ($8M) in Q4 2025. Hiring 5 sales reps. Posted about scaling challenges on LinkedIn."
+    },
+    {
+      "company": "DataSync Pro",
+      "website": "https://datasyncpro.io",
+      "industry": "SaaS",
+      "size": "10-25",
+      "location": "San Francisco, CA",
+      "contact": {
+        "name": "Michael Torres",
+        "title": "Head of Marketing",
+        "email": "m.torres@datasyncpro.io",
+        "phone": "+1-415-555-0287",
+        "linkedin": "https://linkedin.com/in/mtorres-marketing"
+      },
+      "signals": {
+        "recently_funded": false,
+        "hiring": true,
+        "tech_stack_match": true,
+        "content_engagement": false
+      },
+      "score": 8,
+      "notes": "Hiring marketing automation specialist. Active on LinkedIn with growth content."
+    },
+    {
+      "company": "CloudScale Systems",
+      "website": "https://cloudscalesys.com",
+      "industry": "SaaS",
+      "size": "50-100",
+      "location": "Denver, CO",
+      "contact": {
+        "name": "Jennifer Walsh",
+        "title": "CTO",
+        "email": "j.walsh@cloudscalesys.com",
+        "phone": "+1-303-555-0198",
+        "linkedin": "https://linkedin.com/in/jwalsh-cto"
+      },
+      "signals": {
+        "recently_funded": true,
+        "hiring": true,
+        "tech_stack_match": true,
+        "content_engagement": true
+      },
+      "score": 10,
+      "notes": "Hot lead! Series B ($15M) announced last month. Rapidly expanding engineering team."
+    }
+  ],
+  "recommended_outreach": {
+    "day_1": "Personalized email referencing recent funding news or hiring activity",
+    "day_3": "LinkedIn connection request with value-add note",
+    "day_7": "Follow-up email with relevant case study or resource",
+    "day_14": "Final touchpoint - offer brief call to discuss their challenges"
+  }
+}

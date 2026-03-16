@@ -63,7 +63,7 @@ Custom social media content calendars for Instagram, Twitter/X, and LinkedIn.
 
 ## 📞 Contact
 
-- **Telegram:** [Your Telegram handle]
+- **Telegram:** +543517597046
 - **Email:** crypto.storm.2026@gmail.com
 - **GitHub:** https://github.com/damalpol/dcashclaw-agent
 
